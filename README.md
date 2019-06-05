@@ -1,0 +1,2 @@
+# Web-Scraping-using-python
+It is an implementation of Web Scraping using python from the website https://www.rankingthebrands.com in which details like Company name, Company Awards, and Ranking of respective Companies in a particular year have been extracted and stored in CSV file. This is a great example for anyone who is new to Web Scraping and wants to explore new ways to process and extract huge amount of data that is available on web
